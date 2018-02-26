@@ -1,0 +1,13 @@
+{
+	"client": "./client",
+	"svr": "./server",
+	"miniprogramRoot": "./client",
+	"qcloudRoot": "./server",
+	"setting": {
+		"newFeature": true
+	},
+	"appid": "wxd22e3e61611f6871",
+	"projectname": "wxapp",
+	"libVersion": "1.9.90",
+	"condition": {}
+}
